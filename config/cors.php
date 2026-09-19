@@ -12,6 +12,7 @@ return [
     'allowed_origins' => [
         'http://127.0.0.1:5176',
         'http://localhost:5176',
+        'https://conteo-mesas-votos-frontend.vercel.app/',
     ],
 
     'allowed_origins_patterns' => [],
